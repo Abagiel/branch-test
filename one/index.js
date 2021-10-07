@@ -1,5 +1,9 @@
 console.log();
 
 function test() {
-	return null;
+	return 'null';
+}
+
+function lea() {
+	return false;
 }
